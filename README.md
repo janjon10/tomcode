@@ -1,1 +1,3 @@
-# tomcode
+# maven-project
+
+Simple Maven Project
